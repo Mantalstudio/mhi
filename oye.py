@@ -205,4 +205,4 @@ def login1():
 		os.system('clear')
                 time.sleep(0.05)
 		print logo
-		jalan(' \033[1;91
+                jalan(' \033[1;91
