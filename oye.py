@@ -1,6 +1,7 @@
-#!/usr/bin/python2
+ooooooooooooooo#!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Hamza
+#The Credit For This Code Goes To mhi
+
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -110,13 +111,18 @@ def phone():
 		login()
 	os.system('clear')
 
-#Dev:Hami
+#Dev:Mhi
 ##### LOGO #####
 logo = """
- █▀▄▀█ █▀▀█ █▀▀▄ ▀▀█▀▀ █▀▀█ █░░   █▀▀ ▀▀█▀▀ █░░█ █▀▀▄ ░▀░ █▀▀█
-█░▀░█ █▄▄█ █░░█ ░░█░░ █▄▄█ █░░   ▀▀█ ░░█░░ █░░█ █░░█ ▀█▀ █░░█
-▀░░░▀ ▀░░▀ ▀░░▀ ░░▀░░ ▀░░▀ ▀▀▀   ▀▀▀ ░░▀░░ ░▀▀▀ ▀▀▀░ ▀▀▀ ▀▀▀▀
-\033[1;96m           [\033[1;97mOwner Brand: Hamza \033[1;97m]    
+ /$$   /$$                     /$$          
+ | $$$ | $$                    |__/         
+| $$$$| $$  /$$$$$$  /$$$$$$$$ /$$  /$$$$$$
+| $$ $$ $$ |____  $$|____ /$$/| $$ /$$__  $$
+| $$  $$$$  /$$$$$$$   /$$$$/ | $$| $$  \__/
+| $$\  $$$ /$$__  $$  /$$__/  | $$| $$
+| $$ \  $$|  $$$$$$$ /$$$$$$$$| $$| $$
+|__/  \__/ \_______/|________/|__/|__/
+\033[1;96m           [\033[1;97mOwner Brand: MHI \033[1;97m]    
 """
 
 def tik():
@@ -137,14 +143,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;95m❖⚏⚏⚏L💙U⚏⚏⚏❖❖⚏⚏⚏L💙U⚏⚏⚏❖
-\033[1;95m[Owner    Mantal Studio]      ]
-\033[1;91m[Facebook  Hamza   ]
+\033[1;95m[Owner   Mantal]
+\033[1;95m[whatsap   aa      ]
+\033[1;91m[Facebook  Mantal   ]
 \033[1;91mNote: \033[1;97mWellcomeeeeeeeeee to
 \033[1;97mVIP Tools with My user and pass
 \033[1;91m❖⚏⚏⚏L💙U⚏⚏⚏❖❖⚏⚏⚏L💙U⚏⚏⚏❖
  """
-CorrectUsername = "Mantal"
-CorrectPassword = "Studio"
+CorrectUsername = "Mhi"
+CorrectPassword = "Mhi"
 
 loop = 'true'
 while (loop == 'true'):
@@ -152,15 +159,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;91m \x1b[1;91mTool Password \x1b[1;91m: \x1b[1;92m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:Hamza
+            print "Logged in successfully as " + username #Dev:Mhi
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;93mWrong Password"
-            os.system('xdg-open https://chat.whatsapp.com/JicPqqRZ6vlEhmxXbdA9rF')
+            os.system('xdg-open https://chat.whatsapp.com/GWTPaJVAy1gDHIDgHEw0Ht')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://chat.whatsapp.com/JicPqqRZ6vlEhmxXbdA9rF')
+        os.system('xdg-open https://chat.whatsapp.com/GWTPaJVAy1gDHIDgHEw0Ht')
 
 ##### LICENSE #####
 #=================#
@@ -174,6 +181,8 @@ def login():
 	print "\033[1;97m[1]\x1b[1;96mLogin With Facebook Account  "
         time.sleep(0.05)
         print "\033[1;97m[2]\x1b[1;96mLogin  With Token"
+        time.sleep(0.05)
+        print "\033[1;97m[3]\x1b[1;96mGet Free Token to Basit Ali"
         time.sleep(0.05)
 	print "\033[1;97m[0]\033[1;96mExit             "
 	pilih_login()
@@ -205,4 +214,4 @@ def login1():
 		os.system('clear')
                 time.sleep(0.05)
 		print logo
-                jalan(' \033[1;91
+		jalan(' \033[1;91
