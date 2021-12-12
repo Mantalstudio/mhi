@@ -1,7 +1,6 @@
 ooooooooooooooo#!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To mhi
-
+#The Credit For This Code Goes To Rana Nadeem Rajput
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -111,7 +110,7 @@ def phone():
 		login()
 	os.system('clear')
 
-#Dev:Mhi
+#Dev:Rana_Nadeem
 ##### LOGO #####
 logo = """
  /$$   /$$                     /$$          
@@ -122,7 +121,7 @@ logo = """
 | $$\  $$$ /$$__  $$  /$$__/  | $$| $$
 | $$ \  $$|  $$$$$$$ /$$$$$$$$| $$| $$
 |__/  \__/ \_______/|________/|__/|__/
-\033[1;96m           [\033[1;97mOwner Brand: MHI \033[1;97m]    
+\033[1;96m           [\033[1;97mOwner Brand: NaZir AjmaLo \033[1;97m]    
 """
 
 def tik():
@@ -143,15 +142,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;95m❖⚏⚏⚏L💙U⚏⚏⚏❖❖⚏⚏⚏L💙U⚏⚏⚏❖
-\033[1;95m[Owner   Mantal]
-\033[1;95m[whatsap   aa      ]
-\033[1;91m[Facebook  Mantal   ]
+\033[1;95m[Owner    NaZir AjmaLo]
+\033[1;95m[whatsap   03025669420       ]
+\033[1;91m[Facebook  ggggg   ]
 \033[1;91mNote: \033[1;97mWellcomeeeeeeeeee to
 \033[1;97mVIP Tools with My user and pass
 \033[1;91m❖⚏⚏⚏L💙U⚏⚏⚏❖❖⚏⚏⚏L💙U⚏⚏⚏❖
  """
-CorrectUsername = "Mhi"
-CorrectPassword = "Mhi"
+CorrectUsername = "mhi"
+CorrectPassword = "mhi"
 
 loop = 'true'
 while (loop == 'true'):
@@ -159,7 +158,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;91m \x1b[1;91mTool Password \x1b[1;91m: \x1b[1;92m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:Mhi
+            print "Logged in successfully as " + username #Dev:Rana_Nadeem
 	    time.sleep(2)
             loop = 'false'
         else:
