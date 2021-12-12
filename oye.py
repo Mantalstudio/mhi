@@ -144,13 +144,13 @@ print  """
 \033[1;95m❖⚏⚏⚏L💙U⚏⚏⚏❖❖⚏⚏⚏L💙U⚏⚏⚏❖
 \033[1;95m[Owner    NaZir AjmaLo]
 \033[1;95m[whatsap   03025669420       ]
-\033[1;91m[Facebook  ggggg   ]
+\033[1;91m[Facebook  NaZir Khan   ]
 \033[1;91mNote: \033[1;97mWellcomeeeeeeeeee to
 \033[1;97mVIP Tools with My user and pass
 \033[1;91m❖⚏⚏⚏L💙U⚏⚏⚏❖❖⚏⚏⚏L💙U⚏⚏⚏❖
  """
-CorrectUsername = "mhi"
-CorrectPassword = "mhi"
+CorrectUsername = "NaZir"
+CorrectPassword = "Khan"
 
 loop = 'true'
 while (loop == 'true'):
