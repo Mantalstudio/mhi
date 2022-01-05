@@ -40,8 +40,8 @@
  - `pip2 install bs4`
  - `pip2 install requests`
  - `pip2 install mechanize`
- - `chmod 777 elite.py`
- - `python elite.py`
+ - `chmod 777 oye.py
+ - `python oye.py`
 
 #### WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
