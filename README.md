@@ -26,7 +26,7 @@
    - [+] Extra Passwords
 ## Screenshot :)
 <p align="center">
- <img src="https://github.com/Bilal-XD/elite/blob/main/Screenshots/20220105_153612.jpg" width="1350" title="Menu" alt="Menu">
+ <img src="https://github.com/ /elite/blob/main/Screenshots/20220105_153612.jpg" width="1350" title="Menu" alt="Menu">
 
  
 ### Commands <)
