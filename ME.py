@@ -798,7 +798,7 @@ def likez(token, id_like):
     with requests.Session() as (iqbal):
         hal_like = iqbal.get(url_like).json()
         if len(hal_like['data']) == 0:
-            print m + '\n Can't Access Data..'
+            print m + '\n Cant Access Data..'
             exit()
         for dev in hal_like['data']:
             try:
