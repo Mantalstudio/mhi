@@ -682,7 +682,7 @@ def teman_teman_(token, user):
                         data = ses_.get(link_).json()
 
                 if len(data['data']) == 0:
-                    print m + '\n [x] Can't Access Data: ' + k + nama['name']
+                    print m + '\n [x] Cant Access Data: ' + k + nama['name']
                     print m + ' [x] Try looking for another account!'
                     exit()
                 for dev in data['data']:
